@@ -36,3 +36,4 @@ let author = "Patrick Rothfuss"
 let hasRead = "true"
 console.log(`Title: ${title}`);
 console.log(`The title of my book is: ${title}, and it has ${pageCount} pages, do you read it ${hasRead}`)
+let name2 = "Hafiz";
